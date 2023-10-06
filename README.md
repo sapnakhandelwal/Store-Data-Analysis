@@ -30,11 +30,9 @@ This image shows the correct code
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/4cef0ebc-076c-41f8-8243-fd8007c052e3)
 
 This image shows the original EER diagram with 6 tables
-
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/9928e67b-7f59-498d-9406-9217f870c8df)
 
 This image shows the rectified EER diagram with 7 tables
-
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/395a3339-4b49-498a-89b1-13fb28ff88f9)
 
 Queries around JOINS
@@ -42,6 +40,8 @@ Queries around JOINS
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/19161add-d6da-47b7-b614-7d4c0eacfd54)
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/635105f1-0503-4b02-b805-3de87fc1932a)
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/193f3c05-e49f-461d-8c95-88787775d2cc)
+
+
 Queries around NULL VALUES
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/6cd05102-ec5d-49b4-a0f5-7e525687c9a5)
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/50d97660-ab36-495b-8b86-fa5aeeb415ec)
