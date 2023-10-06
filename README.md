@@ -11,7 +11,7 @@ Analysis -
 1. Identified the error in the file
 2. After rectifiying the erroe, new file is containing 7 Tables
 3. I wrote different queries across all the tables
-4. I practice Join syntax in MySQL
+4. I practice JOINS syntax in MySQL
 5. I practice how to find and calculate null values in MySQL
    
 -- The initial create-db-store file was giving error while running. Although we were able to get the EER diagram with 6 tables
@@ -37,4 +37,13 @@ This image shows the rectified EER diagram with 7 tables
 
 ![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/395a3339-4b49-498a-89b1-13fb28ff88f9)
 
-
+Queries around JOINS
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/16cbd7c7-efc2-4c58-90ed-0208a5d1669f)
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/19161add-d6da-47b7-b614-7d4c0eacfd54)
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/635105f1-0503-4b02-b805-3de87fc1932a)
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/193f3c05-e49f-461d-8c95-88787775d2cc)
+Queries around NULL VALUES
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/6cd05102-ec5d-49b4-a0f5-7e525687c9a5)
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/50d97660-ab36-495b-8b86-fa5aeeb415ec)
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/dc8793b1-c2d0-4a0d-b014-82861e7cde06)
+![image](https://github.com/sapnakhandelwal/Store-Data-Analysis/assets/147053399/06dd1771-a5fc-49c6-b1ce-0ad55d4c27fc)
