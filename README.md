@@ -8,11 +8,18 @@ Finding -
 2. File is showing some error during run time
 
 Analysis -
-1. I identified the error in the file
+1. Identified the error in the file
 2. After rectifiying the erroe, new file is containing 7 Tables
 3. I wrote different queries across all the tables
 4. I practice Join syntax in MySQL
 5. I practice how to find and calculate null values in MySQL
+   
+-- The initial create-db-store file was giving error while running. Although we were able to get the EER diagram with 6 tables
+-- When we debug the code we found there was error in last table. The last table was not completed and syntax was incorrect at Create Table
+-- So we have corrected the syntax (line- 130). Add 2 Foreign Keys as mentioned above (line-136-140)
+-- So now new EER diagram has 7 tables
+-- We have also added primary key Item_Id (line- 105) in one table named Order_Items. As 2 Primary Keys were mentioned which were already a Primary Keys in other tables
+-- So we changed those Keys to Foreign keys (line- 108). Wrote the respective Syntax
 
 This image shows the wrong part of the code
 
